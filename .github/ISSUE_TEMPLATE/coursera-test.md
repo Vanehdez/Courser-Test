@@ -1,6 +1,6 @@
 ---
-name: Feature request
-about: Suggest an idea for this project
+name: Coursera Test
+about: Coursera test repository
 title: ''
 labels: ''
 assignees: ''
